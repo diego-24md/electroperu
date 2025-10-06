@@ -24,6 +24,6 @@ CREATE TABLE productos
 npm install
 ```
 
-Se ejecutará la instalación de todas las dependencias definidas en package.json
+5. Se ejecutará la instalación de todas las dependencias definidas en package.json
 
-Crear e ingresar los parámetros en el archivo .env
+6. Crear e ingresar los parámetros en el archivo .env
